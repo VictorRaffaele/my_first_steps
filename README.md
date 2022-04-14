@@ -21,7 +21,7 @@ Resposta: \
 git add .\ola_mundo.txt \
 git status \
 git commit -m "Resolução da questão 3" \
-git push \
+git push
 
 4. Se não existir em seu diretório, adicione ao seu diretório um arquivo com o nome de
 “.gitignore”. Em seguida, crie uhh arquivo chamado “serei_ignorado.txt” e adicione algum
